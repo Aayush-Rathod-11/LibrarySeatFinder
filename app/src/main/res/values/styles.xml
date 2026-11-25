@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LibrarySeatFinder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#245B45</item>
+        <item name="colorPrimaryVariant">#17402F</item>
+        <item name="colorSecondary">#E4B363</item>
+    </style>
+</resources>

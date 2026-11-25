@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058542718173",
+    "project_id": "libraryseatfinder-31382",
+    "storage_bucket": "libraryseatfinder-31382.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058542718173:android:b84077157c6ff35b24df34",
+        "android_client_info": {
+          "package_name": "com.example.libraryseatfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEs_PbqYJ1B6wyKLeMJPxRVYLgMDfAar8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
